@@ -6,5 +6,8 @@ dist/
 wheels/
 *.egg-info
 
+# file saving
+Saved_results/
+
 # Virtual environments
 .venv
