@@ -8,6 +8,9 @@ wheels/
 
 # file saving
 Saved_results/
-
+input/
+example_from_git/
+#java files etc
+tools/
 # Virtual environments
 .venv
