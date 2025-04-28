@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595.28 841.89">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        stroke: #33669a;
+      }
+
+      .st0, .st1, .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11 {
+        stroke-width: 2px;
+      }
+
+      .st0, .st12 {
+        fill: #e6e7e8;
+      }
+
+      .st13 {
+        font-size: 13.2px;
+      }
+
+      .st13, .st14, .st15, .st16, .st17, .st18, .st19 {
+        isolation: isolate;
+      }
+
+      .st13, .st14, .st15, .st19 {
+        fill: #333;
+      }
+
+      .st13, .st14, .st17, .st18, .st19 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st14 {
+        font-size: 14.85px;
+      }
+
+      .st20 {
+        fill: url(#linear-gradient9);
+      }
+
+      .st20, .st21, .st22, .st23, .st24, .st25, .st26, .st27, .st28, .st29 {
+        stroke-width: 3px;
+      }
+
+      .st20, .st22, .st1, .st23, .st24, .st25, .st26, .st27, .st28, .st29 {
+        stroke: #333;
+      }
+
+      .st21, .st2, .st3, .st4, .st6, .st30 {
+        stroke: #555;
+      }
+
+      .st21, .st3 {
+        fill: none;
+        stroke-linecap: round;
+      }
+
+      .st22 {
+        fill: url(#linear-gradient5);
+      }
+
+      .st15 {
+        font-family: ArialMT, Arial;
+        font-size: 9.9px;
+      }
+
+      .st1 {
+        fill: url(#linear-gradient19);
+      }
+
+      .st2 {
+        fill: url(#linear-gradient7);
+      }
+
+      .st4 {
+        fill: url(#linear-gradient8);
+      }
+
+      .st5 {
+        fill: url(#linear-gradient);
+      }
+
+      .st5, .st31, .st9, .st10 {
+        stroke: #2c5aa1;
+      }
+
+      .st6 {
+        fill: url(#linear-gradient6);
+      }
+
+      .st16 {
+        font-family: Arial-ItalicMT, Arial;
+        font-size: 8.25px;
+        font-style: italic;
+      }
+
+      .st16, .st17, .st18 {
+        fill: #33669a;
+      }
+
+      .st7 {
+        fill: url(#linear-gradient16);
+      }
+
+      .st7, .st8, .st32, .st11 {
+        stroke: #a3375a;
+      }
+
+      .st17 {
+        font-size: 16.5px;
+      }
+
+      .st8 {
+        fill: url(#linear-gradient15);
+      }
+
+      .st31 {
+        fill: url(#linear-gradient18);
+      }
+
+      .st23 {
+        fill: url(#linear-gradient14);
+      }
+
+      .st24 {
+        fill: url(#linear-gradient4);
+      }
+
+      .st30 {
+        fill: url(#linear-gradient20);
+      }
+
+      .st25 {
+        fill: url(#linear-gradient11);
+      }
+
+      .st26 {
+        fill: url(#linear-gradient3);
+      }
+
+      .st9 {
+        fill: url(#linear-gradient2);
+      }
+
+      .st18, .st19 {
+        font-size: 11.55px;
+      }
+
+      .st27 {
+        fill: url(#linear-gradient12);
+      }
+
+      .st10 {
+        fill: url(#linear-gradient1);
+      }
+
+      .st32 {
+        fill: url(#linear-gradient21);
+      }
+
+      .st28 {
+        fill: url(#linear-gradient10);
+      }
+
+      .st12 {
+        stroke: #69c;
+      }
+
+      .st11 {
+        fill: url(#linear-gradient17);
+      }
+
+      .st29 {
+        fill: url(#linear-gradient13);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-.15" y1="836.19" x2="-.15" y2="835.36" gradientTransform="translate(64.98 37126.1) scale(44 -44)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a3c2e6"/>
+      <stop offset="1" stop-color="#497ebc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient1" x1="-.94" x2="-.94" gradientTransform="translate(264.98 37126.1) scale(44 -44)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient2" x1="-1.74" x2="-1.74" gradientTransform="translate(464.98 37126.1) scale(44 -44)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient3" x1="-1.09" y1="833.29" x2="-1.09" y2="832.47" gradientTransform="translate(88.98 23722.1) scale(28 -28)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e0e0e0"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient4" x1="-2.34" x2="-2.34" gradientTransform="translate(288.98 23722.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient5" x1="-3.59" x2="-3.59" gradientTransform="translate(488.98 23722.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient6" x1="-.31" y1="836.23" x2="-.31" y2="835.4" gradientTransform="translate(70.98 33900.1) scale(40 -40)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#c8c8c8"/>
+      <stop offset="1" stop-color="#8a8a8a"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient7" x1="-1.18" x2="-1.18" gradientTransform="translate(270.98 33900.1) scale(40 -40)" xlink:href="#linear-gradient6"/>
+    <linearGradient id="linear-gradient8" x1="-2.06" x2="-2.06" gradientTransform="translate(470.98 33900.1) scale(40 -40)" xlink:href="#linear-gradient6"/>
+    <linearGradient id="linear-gradient9" y1="834.17" y2="833.34" gradientTransform="translate(88.98 23862.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient10" x1="-2.34" y1="834.17" x2="-2.34" y2="833.34" gradientTransform="translate(288.98 23862.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient11" x1="-3.59" y1="834.17" x2="-3.59" y2="833.34" gradientTransform="translate(488.98 23862.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient12" x1="-1.71" y1="834.79" x2="-1.71" y2="833.97" gradientTransform="translate(188.98 23962.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient13" x1="-2.96" y1="834.17" x2="-2.96" y2="833.34" gradientTransform="translate(388.98 23862.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient14" x1="-2.96" y1="834.79" x2="-2.96" y2="833.97" gradientTransform="translate(388.98 23962.1) scale(28 -28)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient15" x1="-2.99" y1="832.47" x2="-2.99" y2="831.65" gradientTransform="translate(200.98 17290.1) scale(20 -20)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#f0a3b9"/>
+      <stop offset="1" stop-color="#da4e71"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient16" x1="-4.74" x2="-4.74" gradientTransform="translate(400.98 17290.1) scale(20 -20)" xlink:href="#linear-gradient15"/>
+    <linearGradient id="linear-gradient17" x1="-4.74" y1="832.43" x2="-4.74" y2="831.61" gradientTransform="translate(400.98 17200.1) scale(20 -20)" xlink:href="#linear-gradient15"/>
+    <linearGradient id="linear-gradient18" x1="-6.64" y1="831.84" x2="-6.64" y2="831.02" gradientTransform="translate(619.98 20626.1) scale(24 -24)" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient19" x1="-10.71" y1="827.14" x2="-10.71" y2="826.31" gradientTransform="translate(631.98 13924.1) scale(16 -16)" xlink:href="#linear-gradient3"/>
+    <linearGradient id="linear-gradient20" x1="-8.27" y1="830.36" x2="-8.27" y2="829.53" gradientTransform="translate(625.98 17320.1) scale(20 -20)" xlink:href="#linear-gradient6"/>
+    <linearGradient id="linear-gradient21" x1="-8.27" y1="830.71" x2="-8.27" y2="829.88" gradientTransform="translate(625.98 17360.1) scale(20 -20)" xlink:href="#linear-gradient15"/>
+  </defs>
+  <rect class="st0" x="157.58" y="285.91" width="247.5" height="33" rx="10" ry="10"/>
+  <text class="st17" transform="translate(178.62 306.53)"><tspan x="0" y="0">IEEE 9-Bus Power System</tspan></text>
+  <circle class="st5" cx="58.58" cy="351.91" r="18.15"/>
+  <text class="st14" transform="translate(48.67 356.03)"><tspan x="0" y="0">G1</tspan></text>
+  <circle class="st10" cx="223.58" cy="351.91" r="18.15"/>
+  <text class="st14" transform="translate(213.68 356.03)"><tspan x="0" y="0">G2</tspan></text>
+  <circle class="st9" cx="388.58" cy="351.91" r="18.15"/>
+  <text class="st14" transform="translate(378.69 356.03)"><tspan x="0" y="0">G3</tspan></text>
+  <circle class="st26" cx="58.58" cy="401.41" r="11.55"/>
+  <text class="st13" transform="translate(54.91 405.53)"><tspan x="0" y="0">1</tspan></text>
+  <circle class="st24" cx="223.58" cy="401.41" r="11.55"/>
+  <text class="st13" transform="translate(219.92 405.53)"><tspan x="0" y="0">2</tspan></text>
+  <circle class="st22" cx="388.58" cy="401.41" r="11.55"/>
+  <text class="st13" transform="translate(384.92 405.53)"><tspan x="0" y="0">3</tspan></text>
+  <rect class="st6" x="42.08" y="450.91" width="33" height="33"/>
+  <text class="st13" transform="translate(50.87 471.53)"><tspan x="0" y="0">T1</tspan></text>
+  <rect class="st2" x="207.08" y="450.91" width="33" height="33"/>
+  <text class="st13" transform="translate(215.88 471.53)"><tspan x="0" y="0">T2</tspan></text>
+  <rect class="st4" x="372.08" y="450.91" width="33" height="33"/>
+  <text class="st13" transform="translate(380.88 471.53)"><tspan x="0" y="0">T3</tspan></text>
+  <circle class="st20" cx="58.58" cy="516.91" r="11.55"/>
+  <text class="st13" transform="translate(54.91 521.03)"><tspan x="0" y="0">4</tspan></text>
+  <circle class="st28" cx="223.58" cy="516.91" r="11.55"/>
+  <text class="st13" transform="translate(219.92 521.03)"><tspan x="0" y="0">7</tspan></text>
+  <circle class="st25" cx="388.58" cy="516.91" r="11.55"/>
+  <text class="st13" transform="translate(384.92 521.03)"><tspan x="0" y="0">9</tspan></text>
+  <circle class="st27" cx="141.08" cy="599.41" r="11.55"/>
+  <text class="st13" transform="translate(137.41 603.53)"><tspan x="0" y="0">5</tspan></text>
+  <circle class="st29" cx="306.08" cy="516.91" r="11.55"/>
+  <text class="st13" transform="translate(302.41 521.03)"><tspan x="0" y="0">8</tspan></text>
+  <circle class="st23" cx="306.08" cy="599.41" r="11.55"/>
+  <text class="st13" transform="translate(302.41 603.53)"><tspan x="0" y="0">6</tspan></text>
+  <rect class="st8" x="132.83" y="640.66" width="16.5" height="16.5"/>
+  <text class="st19" transform="translate(134.34 668.41)"><tspan x="0" y="0">L1</tspan></text>
+  <rect class="st7" x="297.83" y="640.66" width="16.5" height="16.5"/>
+  <text class="st19" transform="translate(299.35 668.41)"><tspan x="0" y="0">L2</tspan></text>
+  <rect class="st11" x="297.83" y="551.41" width="16.5" height="16.5"/>
+  <text class="st19" transform="translate(299.35 579.16)"><tspan x="0" y="0">L3</tspan></text>
+  <line class="st21" x1="58.58" y1="370.06" x2="58.58" y2="389.86"/>
+  <line class="st21" x1="223.58" y1="370.06" x2="223.58" y2="389.86"/>
+  <line class="st21" x1="388.58" y1="370.06" x2="388.58" y2="389.86"/>
+  <line class="st21" x1="58.58" y1="412.96" x2="58.58" y2="450.91"/>
+  <line class="st21" x1="223.58" y1="412.96" x2="223.58" y2="450.91"/>
+  <line class="st21" x1="388.58" y1="412.96" x2="388.58" y2="450.91"/>
+  <line class="st21" x1="58.58" y1="483.91" x2="58.58" y2="505.36"/>
+  <line class="st21" x1="223.58" y1="483.91" x2="223.58" y2="505.36"/>
+  <line class="st21" x1="388.58" y1="483.91" x2="388.58" y2="505.36"/>
+  <line class="st21" x1="68.48" y1="523.51" x2="132.01" y2="591.16"/>
+  <line class="st21" x1="152.63" y1="599.41" x2="294.53" y2="599.41"/>
+  <line class="st21" x1="315.98" y1="592.81" x2="379.51" y2="525.16"/>
+  <line class="st21" x1="377.03" y1="516.91" x2="317.63" y2="516.91"/>
+  <line class="st21" x1="294.53" y1="516.91" x2="235.13" y2="516.91"/>
+  <line class="st21" x1="215.33" y1="525.16" x2="149.33" y2="591.16"/>
+  <line class="st3" x1="141.08" y1="610.96" x2="141.08" y2="640.66"/>
+  <line class="st3" x1="306.08" y1="610.96" x2="306.08" y2="640.66"/>
+  <line class="st3" x1="306.08" y1="528.46" x2="306.08" y2="551.41"/>
+  <g>
+    <rect class="st12" x="52.22" y="561.34" width="49.5" height="20.62" rx="5" ry="5"/>
+    <text class="st16" transform="translate(62.06 575.36)"><tspan x="0" y="0">Line 4-5</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="203.17" y="603.94" width="49.5" height="20.62" rx="5" ry="5"/>
+    <text class="st16" transform="translate(213.02 617.96)"><tspan x="0" y="0">Line 5-6</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="352.01" y="558.04" width="49.5" height="20.62" rx="5" ry="5"/>
+    <text class="st16" transform="translate(361.04 570.97)"><tspan x="0" y="0">Line 6-9</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="324.86" y="490.83" width="49.5" height="20.63" rx="5" ry="5"/>
+    <text class="st16" transform="translate(334.7 504.85)"><tspan x="0" y="0">Line 9-8</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="242.36" y="491.27" width="49.5" height="20.63" rx="5" ry="5"/>
+    <text class="st16" transform="translate(252.2 505.29)"><tspan x="0" y="0">Line 8-7</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="140.31" y="527.56" width="49.5" height="20.62" rx="5" ry="5"/>
+    <text class="st16" transform="translate(150.14 541.58)"><tspan x="0" y="0">Line 7-5</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="79.5" y="454.02" width="33" height="20.62" rx="5" ry="5"/>
+    <text class="st16" transform="translate(82.01 468.04)"><tspan x="0" y="0">T1 data</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="248.06" y="453.13" width="33" height="20.62" rx="5" ry="5"/>
+    <text class="st16" transform="translate(250.56 467.15)"><tspan x="0" y="0">T2 data</tspan></text>
+  </g>
+  <g>
+    <rect class="st12" x="413.33" y="450.91" width="33" height="20.62" rx="5" ry="5"/>
+    <text class="st16" transform="translate(415.85 464.93)"><tspan x="0" y="0">T3 data</tspan></text>
+  </g>
+  <rect class="st0" x="431.72" y="630.47" width="132" height="165" rx="10" ry="10"/>
+  <text class="st18" transform="translate(477.19 646.96)"><tspan x="0" y="0">Legend</tspan></text>
+  <circle class="st31" cx="460.6" cy="671.72" r="9.9"/>
+  <text class="st15" transform="translate(489.47 675.84)"><tspan x="0" y="0">Generator</tspan></text>
+  <circle class="st1" cx="460.6" cy="696.47" r="6.6"/>
+  <text class="st15" transform="translate(489.47 700.59)"><tspan x="0" y="0">Bus</tspan></text>
+  <rect class="st30" x="452.35" y="712.97" width="16.5" height="16.5"/>
+  <text class="st15" transform="translate(489.47 725.34)"><tspan x="0" y="0">Transformer</tspan></text>
+  <rect class="st32" x="452.35" y="745.97" width="16.5" height="16.5"/>
+  <text class="st15" transform="translate(489.47 758.34)"><tspan x="0" y="0">Load</tspan></text>
+  <rect class="st12" x="448.22" y="770.72" width="33" height="16.5" rx="5" ry="5"/>
+  <text class="st15" transform="translate(505.98 783.08)"><tspan x="0" y="0">Line Data</tspan></text>
+</svg>
