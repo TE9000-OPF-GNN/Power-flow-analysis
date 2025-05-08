@@ -10,6 +10,8 @@ wheels/
 Saved_results/
 input/
 example_from_git/
+networks_templates/
+
 #java files etc
 tools/
 # Virtual environments

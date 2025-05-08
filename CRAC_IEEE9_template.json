@@ -1,0 +1,258 @@
+{
+  "type": "CRAC",
+  "version": "2.6",
+  "id": "ieee9_crac",
+  "name": "IEEE 9-Bus CRAC",
+  "flowCnecs": [
+    {
+      "id": "L7-8-0_preventive",
+      "name": "L7-8-0 preventive constraint",
+      "networkElementId": "L7-8-0",
+      "instant": "preventive",
+      "optimized": true,
+      "monitored": true,
+      "iMax": [
+        500.0,
+        500.0
+      ],
+      "nominalV": [
+        100.0,
+        100.0
+      ],
+      "thresholds": [
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 1
+        },
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 2
+        }
+      ]
+    },
+    {
+      "id": "L9-8-0_preventive",
+      "name": "L9-8-0 preventive constraint",
+      "networkElementId": "L9-8-0",
+      "instant": "preventive",
+      "optimized": true,
+      "monitored": true,
+      "iMax": [
+        500.0,
+        500.0
+      ],
+      "nominalV": [
+        100.0,
+        100.0
+      ],
+      "thresholds": [
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 1
+        },
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 2
+        }
+      ]
+    },
+    {
+      "id": "L7-5-0_preventive",
+      "name": "L7-5-0 preventive constraint",
+      "networkElementId": "L7-5-0",
+      "instant": "preventive",
+      "optimized": true,
+      "monitored": true,
+      "iMax": [
+        500.0,
+        500.0
+      ],
+      "nominalV": [
+        100.0,
+        100.0
+      ],
+      "thresholds": [
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 1
+        },
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 2
+        }
+      ]
+    },
+    {
+      "id": "L9-6-0_preventive",
+      "name": "L9-6-0 preventive constraint",
+      "networkElementId": "L9-6-0",
+      "instant": "preventive",
+      "optimized": true,
+      "monitored": true,
+      "iMax": [
+        500.0,
+        500.0
+      ],
+      "nominalV": [
+        100.0,
+        100.0
+      ],
+      "thresholds": [
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 1
+        },
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 2
+        }
+      ]
+    },
+    {
+      "id": "L5-4-0_preventive",
+      "name": "L5-4-0 preventive constraint",
+      "networkElementId": "L5-4-0",
+      "instant": "preventive",
+      "optimized": true,
+      "monitored": true,
+      "iMax": [
+        500.0,
+        500.0
+      ],
+      "nominalV": [
+        100.0,
+        100.0
+      ],
+      "thresholds": [
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 1
+        },
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 2
+        }
+      ]
+    },
+    {
+      "id": "L6-4-0_preventive",
+      "name": "L6-4-0 preventive constraint",
+      "networkElementId": "L6-4-0",
+      "instant": "preventive",
+      "optimized": true,
+      "monitored": true,
+      "iMax": [
+        500.0,
+        500.0
+      ],
+      "nominalV": [
+        100.0,
+        100.0
+      ],
+      "thresholds": [
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 1
+        },
+        {
+          "unit": "ampere",
+          "min": -500.0,
+          "max": 500.0,
+          "side": 2
+        }
+      ]
+    }
+  ],
+  "injectionRangeActions": [
+    {
+      "id": "B1-G_adjustment",
+      "networkElementIdsAndKeys": {
+        "B1-G": 1.0
+      },
+      "initialSetpoint": 71.64102,
+      "ranges": [
+        {
+          "min": -9999.0,
+          "max": 9999.0
+        }
+      ],
+      "onInstantUsageRules": [
+        {
+          "instant": "preventive",
+          "usageMethod": "available"
+        }
+      ]
+    },
+    {
+      "id": "B2-G_adjustment",
+      "networkElementIdsAndKeys": {
+        "B2-G": 1.0
+      },
+      "initialSetpoint": 163.0,
+      "ranges": [
+        {
+          "min": -9999.0,
+          "max": 9999.0
+        }
+      ],
+      "onInstantUsageRules": [
+        {
+          "instant": "preventive",
+          "usageMethod": "available"
+        }
+      ]
+    },
+    {
+      "id": "B3-G_adjustment",
+      "networkElementIdsAndKeys": {
+        "B3-G": 1.0
+      },
+      "initialSetpoint": 85.0,
+      "ranges": [
+        {
+          "min": -9999.0,
+          "max": 9999.0
+        }
+      ],
+      "onInstantUsageRules": [
+        {
+          "instant": "preventive",
+          "usageMethod": "available"
+        }
+      ]
+    }
+  ],
+  "networkElementsNamePerId": {
+    "L7-8-0": "L7-8-0",
+    "L9-8-0": "L9-8-0",
+    "L7-5-0": "L7-5-0",
+    "L9-6-0": "L9-6-0",
+    "L5-4-0": "L5-4-0",
+    "L6-4-0": "L6-4-0",
+    "B1-G": "B1-G",
+    "B2-G": "B2-G",
+    "B3-G": "B3-G"
+  }
+}
